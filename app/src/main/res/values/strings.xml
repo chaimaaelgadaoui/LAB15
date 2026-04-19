@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app_model</string>
+    <string name="label_nom">Nom :</string>
+    <string name="label_prenom">Prénom :</string>
+    <string name="label_id_etudiant">ID Étudiant :</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_chercher">Chercher</string>
+    <string name="btn_supprimer">Supprimer</string>
+    <string name="hint_nom">Entrez le nom</string>
+    <string name="hint_prenom">Entrez le prénom</string>
+    <string name="hint_id">ID</string>
+</resources>
